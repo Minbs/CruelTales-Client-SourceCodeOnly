@@ -1,0 +1,43 @@
+{
+    "name": "CruelTales",
+    "rootNamespace": "CTC",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:4b9e25ba07a4f3a458e5a8771592258d",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:68765d262e2128e4ab49c983f3411946",
+        "GUID:72d1fea872bd7a449bf3818f2b0a6708",
+        "GUID:d573a67cab4f21444ae38f197835b56e",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:0c752da273b17c547ae705acf0f2adf2",
+        "GUID:7d0b3824b239af344aa833c5426918ee",
+        "GUID:caf05c601dab0354e9491b83f058dee3",
+        "GUID:4c52f5019196741419acb674b9734f5a",
+        "GUID:d945d1efc8b659b4889467e796fe6f78",
+        "GUID:764c56d049323db49810138ed337f3b1",
+        "GUID:5a80a5f42333c594e899de405fcff14d",
+        "GUID:ba9600ea5c1a9b3418e4991b80749f9c",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Facepunch.Steamworks.Win64.dll",
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.OdinInspector.Editor.dll",
+        "DOTween.dll",
+        "Mono.Data.Sqlite.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "CT_CLIENT"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
